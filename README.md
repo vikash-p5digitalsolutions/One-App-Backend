@@ -51,9 +51,13 @@ CORS	Allows your frontend (React) to talk to backend
 If a visitor fills the form like this:
 
 Name: Vikash Mishra
+
 Email: Vikash@gmail.com
+
 Phone: 9156743210
+
 Message: I'm interested in your app!
+
 
 It will be saved inside the MongoDB database, and the frontend will show a success message.
 
